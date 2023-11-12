@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/instagram-3DDC84?style=flat-square&logo=instagramd&logoColor=#E4405F"/>
+<img src="https://img.shields.io/badge/instagram-#E4405F?style=flat-square&logo=instagramd&logoColor=#E4405F"/>
 
 
 <!--
