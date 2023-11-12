@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20domangga%20GitHub👋&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Welcome%20to%20domangga%20GitHub👋&fontSize=50&animation=fadeIn" />
 
 ## 📲SNS📲
 <div style="display:flex; flex-direction:row;">
