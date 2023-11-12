@@ -1,4 +1,4 @@
-<a href="https://www.instagram.com/jeayoung_06/" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=for-the-badge&logo=instagram&logoColor=#E4405F"/></a>
+<img src="https://img.shields.io/badge/instagram-3DDC84?style=flat-square&logo=instagramd&logoColor=#E4405F"/>
 
 
 <!--
