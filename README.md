@@ -1,5 +1,4 @@
-<a href="https://www.instagram.com/jeayoung_06/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=
-instagram&logoColor=white"/>
+<a href="https://www.instagram.com/jeayoung_06/" target="_blank"><img src="https://img.shields.io/badge/instagram-#E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 jeayoung_06</a>
 <a><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>sjy48701656@gmail.com</a>
 <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
