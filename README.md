@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/jeayoung_06-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/jeayoung06-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 <img src="https://img.shields.io/badge/sjy48701656@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 
