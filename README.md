@@ -28,7 +28,7 @@ front end🖥<br>
   <img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
   <img src="https://img.shields.io/badge/adobepremierepro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
   
-  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=domangga&show_icons=true&theme=radical)
   
   
 </div>
