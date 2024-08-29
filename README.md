@@ -1,7 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Welcome%20to%20domangga%20GitHub👋&fontSize=50&animation=fadeIn" />
 <h1>my portfolio site</h1>
 https://sites.google.com/view/jaeyoungson<br>
-📲SNS📲
+<h1>📲SNS📲</h1>
+
 <div style="display:flex; flex-direction:row;">
 <a href="https://www.instagram.com/jeayoung_06/" target="_blank">
   <img src="https://img.shields.io/badge/jeayoung__06-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
@@ -9,8 +10,8 @@ https://sites.google.com/view/jaeyoungson<br>
 <img src="https://img.shields.io/badge/sjy48701656@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 <img src="https://img.shields.io/badge/nalgeulssijaehan-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </div>
+<h1>🛠Tech Stack🛠</h1>
 
-🛠Tech Stack🛠
 <div align=center style="display:flex; flex-direction:row; ">
   
 front end🖥<br>
